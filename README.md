@@ -40,5 +40,5 @@ My name is Mohammed, People call me MD I'm a full-stack PHP Developer, and I lov
 <p align="center"><a href="https://twitter.com/@mdMandoinfo" target="blank"><img alt="Twitter URL" src="https://img.shields.io/twitter/url?label=Follow%20mdMandoinfo&style=social&url=https%3A%2F%2Ftwitter.com%2FmdMandoinfo"></a> </p>
 
 <p align=center>
-  <img src="https://profile-counter.glitch.me/mdMandoinfo/count.svg">
+  <img src="https://profile-counter.glitch.me/MDmdMandoinfo/count.svg">
 </p>
