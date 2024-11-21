@@ -6,7 +6,7 @@
 
 <h1 align="center">𝚆𝚎𝚕𝚌𝚘𝚖𝚎!</h2>
 <p align=center>
-My name is Mohammed, People call me MD I'm a full-stack PHP Developer, and I love building things that can help people. Founder of @MC4Host
+My name is Mohammed, People call me MD I'm a Back-end PHP Web Developer, and I love building things that can help people. Founder of @MC4Host
 </p>
 
 <h2 align="center">Back-end PHP Web 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛, 𝚂𝚢𝚜𝙰𝚍𝚖𝚒𝚗</h2>
